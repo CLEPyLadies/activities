@@ -1,12 +1,13 @@
 # Activities List
 
-We have two options here:
+## 2020
 
-1. We can add all activities as submodules so participants can download all of them (preferred)
+- March: (password-generator)[./password-generator]
 
-1. We can list
-- All
-- Activities
-- In
-- The
-- Repo
+## 2018
+
+- November: (metagame)[./metagame]
+
+Add activities as submodules so participants can download all of them if they want.
+Remember to add the activity with a link in this README so participants can navigate
+them in chronological order.
