@@ -1,4 +1,5 @@
 # activities
-Git repo for activiites
 
-This is the place to post code examples for various projects that we do.
+Template for activity repos
+
+The README.md file is where participant instructions go.
