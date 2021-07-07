@@ -1,20 +1,20 @@
 # activities
 
-Template for activity repos
+Template for activity repos.
 
 ## Organizer Instructions
 
-Intended usage for this template repo:
+Intended usage:
 
-1. Open [the activities repo](https://github.com/CLEPyLadies/activities) on GitHub (in a browser)
-2. Clone this locally if you have not already done so.
+1. Open [this repo](https://github.com/CLEPyLadies/activities) on GitHub (in a browser)
+2. Clone this repo locally if you have not already done so.
 3. Select "Use this template" to create a new activity repo
-    - Owner: CLEPyLadies
-    - Repository name: At your discretion
-    - Description: Please add something
-    - Public (not private)
+    - Owner: `CLEPyLadies`
+    - Repository name: `<At your discretion>`
+    - Description: `<Please add something>`
+    - `Public` (not private)
     - Do _not_ select "Include all branches"
-    - Confirm "Create repository from template"
+    - Confirm `"Create repository from template"`
 4. Delete the following files from your new repo:
     - `activities/`
     - `.gitmodules`
@@ -27,3 +27,10 @@ Intended usage for this template repo:
     - `git add ../.gitmodules <new repo name>`
     - `git commit -m "Include new activity <new repo name> as submodule"`
     - `git push origin master`
+
+## Sharing activities with participants
+
+When sending participants a link to activity code, use the url from the individual activity.
+Make sure the `main` branch is selected when copying that link.
+
+If participants ask for resources from multiple activities, link them to the [activities](activities) directory of this repo.
