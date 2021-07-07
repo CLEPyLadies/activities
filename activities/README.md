@@ -1,5 +1,9 @@
 # Activities List
 
+## 2021
+
+- August: [Guess the Word](guess_the_word)
+
 ## 2020
 
 - March: [password-generator](password-generator)
