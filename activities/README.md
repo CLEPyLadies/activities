@@ -2,6 +2,7 @@
 
 ## 2021
 
+- November: [Harvest Mad Libs](mad_libs)
 - August: [Guess the Word](guess_the_word)
 
 ## 2020
